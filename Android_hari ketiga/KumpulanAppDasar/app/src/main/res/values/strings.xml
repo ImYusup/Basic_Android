@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KumpulanAppDasar</string>
+    <string name="spinner_prompt">Piliah</string>
+
+    <string-array name="testing">
+        <item>Udin</item>
+        <item>Udin2</item>
+        <item>Udin3</item>
+        <item>Udin4</item>
+        <item>Udin5</item>
+    </string-array>
+
+    <string name="title_activity_spinner">Spinner</string>
+    <string name="title_activity_spinner_music">SpinnerMusic</string>
+    <string name="title_activity_pop_menu">PopMenu</string>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_custom_list">CustomList</string>
+    <string name="title_activity_input_user">InputUser</string>
+    <string name="title_activity_view_pager">ViewPager</string>
+    <string name="title_activity_spinner_base_adapter">SpinnerBaseAdapter</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail_list">DetailList</string>
+</resources>
